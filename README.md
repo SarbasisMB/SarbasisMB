@@ -8,7 +8,6 @@ A highly innovative and curious individual and skillful at planning and organizi
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarbasisMB&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SarbasisMB&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarbasisMB&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
