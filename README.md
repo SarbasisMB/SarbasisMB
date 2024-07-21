@@ -20,9 +20,6 @@ A highly innovative and curious individual and skillful at planning and organizi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SarbasisMB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SarbasisMB&icon=0&color=0)](https://visitcount.itsvg.in)
 
